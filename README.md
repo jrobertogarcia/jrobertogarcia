@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Roberto Garcia 👋</h1>
 
-<h3 align="center">A passionate Software Engineer student from Mexico 🇲🇽, currently building cool things at <a href="https://www.mediaaerea.com.mx/" target="_blank">Media Aérea</a>.</h3>
+<h3 align="center">A passionate Software Engineer student from Mexico 🇲🇽, currently building cool things at <a href="https://www.mediaaerea.com.mx/">Media Aérea</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jssroberto&label=Profile%20views&color=0e75b6&style=flat" alt="jssroberto" /> </p>
 
@@ -40,10 +40,10 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/jssroberto">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Roberto Garcia's LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/jssroberto/">
     <img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="Roberto's LeetCode Profile" height="40" width="40" />
   </a>
   <a href="mailto:jrobertogarcia16@gmail.com">
