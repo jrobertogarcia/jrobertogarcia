@@ -20,10 +20,10 @@
 
 | Category              | Skills                                                                                                                              |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,kotlin" />                                                              |
-| **Frameworks**        | <img src="https://skillicons.dev/icons?i=spring,django,react,dotnet,androidstudio" />                                            |
+| **Languages**         | <img src="https://skillicons.dev/icons?i=java,python,js,ts,kotlin,cs" />                                                              |
+| **Frameworks**        | <img src="https://skillicons.dev/icons?i=spring,django,react,androidstudio,dotnet" />                                            |
 | **Databases**         | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />                                                          |
-| **Tools & DevOps**    | <img src="https://skillicons.dev/icons?i=git,docker,postman,maven,vite,bash,linux" />                                                      |
+| **Tools & DevOps**    | <img src="https://skillicons.dev/icons?i=git,docker,bash,postman,rabbitmq,maven,vite,linux" />                                                      |
 
 ---
 
