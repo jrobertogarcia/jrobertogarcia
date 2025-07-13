@@ -30,9 +30,9 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jssroberto&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="Roberto's GitHub Stats" />
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jssroberto&layout=compact&theme=github_dark" alt="Roberto's Top Languages" />
+  <img valign="middle" src="https://streak-stats.demolab.com?user=jssroberto&theme=dark&hide_border=true&short_numbers=true" alt="Roberto's GitHub Streak" />
+      
+  <img valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=jssroberto&layout=compact&theme=dark&hide_border=true" alt="Roberto's Top Languages" />
 </p>
 
 ---
