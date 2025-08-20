@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jssroberto&label=Profile%20views&color=0e75b6&style=flat" alt="jssroberto" /> </p>
 
 - 🎓 I’m a Software Engineering student at **[ITSON](https://www.itson.mx)**, on track to graduate in 2026.
-- 👨‍💻 I work as a **Junior Full-Stack Developer** at **[Media Aérea](https://www.mediaaerea.com.mx)**, where I contribute to building and scaling web solutions.
+- 👨‍💻 I work as a **Full-Stack Developer** at **[Media Aérea](https://www.mediaaerea.com.mx)**, where I contribute to building and scaling web solutions.
 - 🌱 I'm currently focused on deepening my knowledge in **Django**, **React**, and **Linux server administration**.
 - 👯 I'm excited to collaborate on projects involving **backend systems**, **microservices** or **infrastructure automation (DevOps)**.
 - 🤔 My next step is moving from local Docker setups to cloud deployment with **Kubernetes** and **AWS**.
@@ -21,7 +21,7 @@
 | Category              | Skills                                                                                                                              |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages**         | <img src="https://skillicons.dev/icons?i=java,python,js,ts,kotlin,cs" />                                                            |
-| **Frameworks**        | <img src="https://skillicons.dev/icons?i=spring,django,react,androidstudio,dotnet" />                                               |
+| **Frameworks**        | <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,react,androidstudio,dotnet" />                                               |
 | **Databases**         | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />                                                        |
 | **Tools & DevOps**    | <img src="https://skillicons.dev/icons?i=git,docker,bash,rabbitmq,maven,vite,linux" />                                              |
 
