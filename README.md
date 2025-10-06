@@ -2,18 +2,13 @@
 
 <h3 align="center">A passionate Software Engineer student from Mexico 🇲🇽, currently building cool things at <a href="https://www.mediaaerea.com.mx/">Media Aérea</a>.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jssroberto&label=Profile%20views&color=0e75b6&style=flat" alt="jssroberto" /> </p>
-
 - 🎓 I’m a Software Engineering student at **[ITSON](https://www.itson.mx)**, on track to graduate in 2026.
 - 👨‍💻 I work as a **Full-Stack Developer** at **[Media Aérea](https://www.mediaaerea.com.mx)**, where I contribute to building and scaling web solutions.
-- 🌱 I'm currently focused on deepening my knowledge in **Django**, **React**, and **Linux server administration**.
+- 🌱 I'm currently focused on deepening my knowledge in **NestJS**, **Django**, and **Linux server administration**.
 - 👯 I'm excited to collaborate on projects involving **backend systems**, **microservices** or **infrastructure automation (DevOps)**.
 - 🤔 My next step is moving from local Docker setups to cloud deployment with **Kubernetes** and **AWS**.
 - 💬 Ask me about **Java**, **Spring Boot**, **Docker** and **Computer Networking**.
 - 📫 How to reach me: **jrobertogarcia16@gmail.com**
-- 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: I'm a big fan of **Ilia Topuria** 🥋.
-
 ---
 
 ### 🛠️ Languages and Tools
