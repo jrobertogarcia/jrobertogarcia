@@ -9,16 +9,19 @@
 - 🤔 My next step is moving from local Docker setups to cloud deployment with **Kubernetes** and **AWS**.
 - 💬 Ask me about **Java**, **Spring Boot**, **Docker** and **Computer Networking**.
 - 📫 How to reach me: **jrobertogarcia16@gmail.com**
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: I'm a big fan of **Ilia Topuria** 🥋.
+
 ---
 
 ### 🛠️ Languages and Tools
 
 | Category              | Skills                                                                                                                              |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | <img src="https://skillicons.dev/icons?i=java,python,js,ts,kotlin,cs" />                                                            |
+| **Languages**         | <img src="https://skillicons.dev/icons?i=java,python,ts,kotlin,cs" />                                                               |
 | **Frameworks**        | <img src="https://skillicons.dev/icons?i=spring,nestjs,django,dotnet,react,androidstudio" />                                        |
-| **Databases**         | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />                                                        |
-| **Tools & DevOps**    | <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,bash,nginx,rabbitmq" />                                               |
+| **Databases**         | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />                                                                 |
+| **Tools & DevOps**    | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,nginx,rabbitmq,linux" />                                |
 
 ---
 
