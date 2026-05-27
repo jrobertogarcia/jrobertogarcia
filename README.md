@@ -18,9 +18,9 @@
 
 | Category              | Skills                                                                                                                              |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | <img src="https://skillicons.dev/icons?i=java,python,ts,kotlin,cs" />                                                               |
+| **Languages**         | <img src="https://skillicons.dev/icons?i=python,go,java,ts,kotlin,cs" />                                                            |
 | **Frameworks**        | <img src="https://skillicons.dev/icons?i=spring,nestjs,django,dotnet,react,androidstudio" />                                        |
-| **Databases**         | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />                                                                 |
+| **Databases**         | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />                                                           |
 | **Tools & DevOps**    | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,nginx,rabbitmq,linux" />                                |
 
 ---
