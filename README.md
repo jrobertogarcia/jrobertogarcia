@@ -38,10 +38,10 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jssroberto">
+  <a href="https://linkedin.com/in/jrobertogarcia">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Roberto Garcia's LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/jssroberto/">
+  <a href="https://leetcode.com/jrobertogarcia/">
     <img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="Roberto's LeetCode Profile" height="40" width="40" />
   </a>
   <a href="mailto:jrobertogarcia16@gmail.com">
