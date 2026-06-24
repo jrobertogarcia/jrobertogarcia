@@ -5,7 +5,7 @@
 - 🎓 I’m a Software Engineering student at **[ITSON](https://www.itson.mx)**, on track to graduate in 2026.
 - 👨‍💻 I work as a **Backend SWE Intern** at **[Lyft](https://www.lyft.com/)**, where I contribute to building and scaling our fleets platform.
 - 🌱 I'm currently focused on deepening my knowledge in **Golang** and **Kubernetes**.
-- 👯 I'm excited to collaborate on projects involving **backend**, **microservices**, **infra** and so on.
+- 👯 I'm excited to collaborate on projects involving **backend**, **microservices** and **infrastructure**.
 - 🤔 My next step is moving from local Docker setups to cloud deployment with **Kubernetes** and **AWS**.
 - 💬 Ask me about **Java**, **Spring Boot**, **Docker** and **Computer Networking**.
 - 📫 How to reach me: **jrobertogarcia16@gmail.com**
